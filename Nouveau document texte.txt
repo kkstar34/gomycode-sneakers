@@ -1,0 +1,27 @@
+Ouffeit
+
+il permet de donner du style à notre page web. 
+
+
+3 selecteurs : class, id, type
+
+
+external css, inline css, 
+
+flexbox : une boite flexible qui contient des lignes ou des colones
+
+
+flex-direction : row
+
+row-reverse, 
+
+position : relative, absolute, static
+
+box-model 
+
+responsive design :adapter le site a tout type d'ecran
+
+
+@media
+
+
